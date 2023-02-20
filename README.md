@@ -1,5 +1,10 @@
-![header]("https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yegyeong%20Lee&fontSize=90")
-<p align=center> Back-End Developer </p>
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yegyeong%20Github!&fontSize=90" />	
+</div>
+
+<div align=center>
+	<h3> Back-End Developer </h3>
+</div>
 
 <div align=center>
   <h3>📚 Skills</h3>
