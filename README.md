@@ -3,12 +3,13 @@
 </div>
 
 <div align=center>
-	<h3> Back-End Developer </h3>
+	<h3>✨ Back-End Developer ✨</h3>
 </div>
 
 <div align=center>
   <h3>📚 Skills</h3>
 </div>
+
 <div align=center>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
