@@ -3,7 +3,7 @@
 </div>
 
 <div align=center>
-	<h3>✨ Back-End Developer ✨</h3>
+	<h3>✨ Web Developer ✨</h3>
 </div><br>
 
 <div align=center>
